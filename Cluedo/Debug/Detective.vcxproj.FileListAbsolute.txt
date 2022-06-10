@@ -1,0 +1,8 @@
+C:\Users\Finn\OneDrive\Studium\Programmieren 1\Übung 10\Detective\Debug\Detective.vcxproj.AssemblyReference.cache
+C:\Users\Finn\OneDrive\Studium\Programmieren 1\Übung 10\Detective\Debug\Detective.MyForm.resources
+C:\Users\Finn\OneDrive\Studium\Programmieren 1\Übung 10\Detective\Debug\Detective.vcxproj.GenerateResource.cache
+C:\Users\Finn\OneDrive\Studium\Programmieren 1\Übung 10\Detective\Debug\Detective.exe
+F:\Backup\Detective\Debug\Detective.vcxproj.AssemblyReference.cache
+F:\Backup\Detective\Debug\Detective.MyForm.resources
+F:\Backup\Detective\Debug\Detective.vcxproj.GenerateResource.cache
+F:\Backup\Detective\Debug\Detective.exe

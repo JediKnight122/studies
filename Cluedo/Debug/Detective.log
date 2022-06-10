@@ -1,0 +1,5 @@
+﻿  CRoom.cpp
+  CPerson.obj : MSIL-Modulgefunden; inkrementelles Verknüpfen wird für MSIL deaktiviert; vollständiger Link wird durchgeführt
+CRoom.obj : error LNK2028: Nicht aufgelöstes Token (0A00022E) ""public: bool __thiscall CPerson::WantsToMove(void)" (?WantsToMove@CPerson@@$$FQAE_NXZ)", auf das in Funktion ""public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall CRoom::GetAlibiOfPerson(int)" (?GetAlibiOfPerson@CRoom@@$$FQAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z)" verwiesen wird.
+CRoom.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""public: bool __thiscall CPerson::WantsToMove(void)" (?WantsToMove@CPerson@@$$FQAE_NXZ)" in Funktion ""public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall CRoom::GetAlibiOfPerson(int)" (?GetAlibiOfPerson@CRoom@@$$FQAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z)".
+C:\Users\Finn\OneDrive\Studium\Programmieren 1\Übung 10\Detective\Debug\Detective.exe : fatal error LNK1120: 2 nicht aufgelöste Externe
